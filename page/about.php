@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me|My Website</title>
+    <title>About Me | My Website</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
@@ -31,7 +31,8 @@
                     <li>
                     <i class="fas-check">HTML5 & CSS</i>
                     <i class="fas-check">Javascript</i>
-                    <i class="fas-check">PHP & MySQL</i>
+                    <i class="fas-check">PHP</i>
+                     <i class="fas-check">MySQL</i>
                 </li>
                 </ul>
 
@@ -40,8 +41,8 @@
                 </h3>
 
                 <div class="social-links">
-                    <a href="https://www.facebook.com/jeybi.col"><i class="fab fa-github"></i>Github</a>
-                    <a href="https://github.com/JohnbrylleCol2004"><i class="fab fa-facebook"></i>Facebook</a>
+                    <a href="https://github.com/JohnbrylleCol2004"><i class="fab fa-github"></i>Github</a>
+                    <a href="https://www.facebook.com/jeybi.col"><i class="fab fa-facebook"></i>Facebook</a>
                     <a href="https://www.instagram.com/jeybantots_/"><i class="fab fa-instagram"></i>Instagram</a>
                 </div>
             </div>
@@ -51,7 +52,7 @@
 
      <footer class="footer">
         <div class="container">
-            <p>&copy; <?php echo date('Y'); ?>Jb.All Right Reserved.</p>
+            <p>&copy; <?php echo date('Y'); ?> Jb.All Right Reserved.</p>
         </div>
     </footer>
 </body>
