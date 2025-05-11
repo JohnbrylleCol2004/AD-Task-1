@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
-<script src="./assets/js/script.js"></script>
+<script src="assets/js/script.js"></script>
 <body>
    <nav class="navbar">
     <div class="container">
@@ -34,7 +34,7 @@
             
         <div class="buttons">
             <a href="index.php" class="btn primary">Explore Features</a>
-            <a href="page/about.php" class="btn secondary">About Me</a>
+            <a href="about.php" class="btn secondary">About Me</a>
         </div>
         </div>
         <div class="hero-image">
@@ -43,7 +43,7 @@
     </div>
     </section> 
     
-    <section class="id">
+    <section id="features">
         <div class="container">
             <h2>Key Features</h2>
             <div class="feature-grid">

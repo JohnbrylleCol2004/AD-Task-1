@@ -43,7 +43,7 @@
     </div>
     </section> 
     
-    <section class="id">
+    <section id="features">
         <div class="container">
             <h2>Key Features</h2>
             <div class="feature-grid">
