@@ -17,8 +17,15 @@
 
     <section class="about-me">
         <div class="container">
-            <div class="creator-img">
-                <img src="<?php echo './assets/img/JB.JPG'?>" alt="Creator Photo">
+            <div class="flip-container" id="flip-container">
+                <div class="flipper">
+                    <div class="front">
+                        <img src="assets/img/Creator-2.JPG" alt="John Brylle Col Front">
+                    </div>
+                    <div class="back">
+                        <img src="assets/img/Brylle.JPG" alt="John Brylle Col Back">
+                    </div>
+                </div>
             </div>
         <div class="creator-info">
             <h1>About Me</h1>
@@ -55,5 +62,7 @@
             <p>&copy; <?php echo date('Y'); ?> Jb.All Right Reserved.</p>
         </div>
     </footer>
+
+    <script src="./assets/js/script.js"></script>
 </body>
 </html>

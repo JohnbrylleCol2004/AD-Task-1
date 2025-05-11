@@ -40,6 +40,10 @@
         <div class="hero-image">
             <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Website Illustration">
         </div>
+
+        <div class="thumbnail-container">
+            <img src="" alt="">
+        </div>
     </div>
     </section> 
     

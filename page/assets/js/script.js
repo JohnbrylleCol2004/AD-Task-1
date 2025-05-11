@@ -35,3 +35,20 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    const flipContainer = document.getElementById('flip-container');
+    
+    flipContainer.addEventListener('click', function() {
+        this.classList.toggle('flipped');
+        
+        // Reset the flip after animation completes (optional)
+        setTimeout(() => {
+            if(this.classList.contains('flipped')) {
+                setTimeout(() => {
+                    this.classList.remove('flipped');
+                }, 3000); // Auto-flip back after 3 seconds
+            }
+        }, 800);
+    });
+});
