@@ -7,12 +7,24 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
+<script src="assets/js/script.js"></script>
 <body>
-    <nav class="navbar">
-        <div class="container">
-            <a href="index.php" class="logo">JB</a>
-        </div>
-    </nav>
+   <nav class="navbar">
+    <div class="container">
+        <a href="index.php" class="logo">JB</a>
+        
+        <button class="hamburger" aria-label="Menu">
+            <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+            </span>
+        </button>
+
+        <ul class="nav-menu">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="page/about.php">About</a></li>
+        </ul>
+    </div>
+</nav>
 
     <section class="hero">
         <div class="container">
