@@ -29,11 +29,11 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-            <h1>Welcome to My Website</h1>
+            <h1>HI, I am John Brylle A. Col</h1>
             <p class="subtitles">Discover amazing contents and resources made good just for you</p>  
             
         <div class="buttons">
-            <a href="index.php" class="btn primary">Explore Features</a>
+            <a href="#features" class="btn primary">Explore Features</a>
             <a href="page/about.php" class="btn secondary">About Me</a>
         </div>
         </div>

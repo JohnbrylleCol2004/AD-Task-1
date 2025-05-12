@@ -29,20 +29,13 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-            <h1>Welcome to My Website</h1>
+            <h1>Hi! I'm John Brylle A. Col</h1>
             <p class="subtitles">Discover amazing contents and resources made good just for you</p>  
             
         <div class="buttons">
-            <a href="index.php" class="btn primary">Explore Features</a>
+            <a href="#features" class="btn primary">Explore Features</a>
             <a href="about.php" class="btn secondary">About Me</a>
         </div>
-        </div>
-        <div class="hero-image">
-            <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Website Illustration">
-        </div>
-
-        <div class="thumbnail-container">
-            <img src="" alt="">
         </div>
     </div>
     </section> 
