@@ -1,0 +1,16 @@
+{
+    "name": "lenovo/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\AdTask1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JohnBryllCol2004",
+            "email": "202310280@fit.edu.ph"
+        }
+    ],
+    "require": {}
+}

@@ -11,6 +11,7 @@
   <h3 align="center">AD-Task-1</h3>
 </div>
 <!-- TODO: Make a short description -->
+This project talks about what is the perfect quality of a good website.
 <div align="center">
 </div>
 
